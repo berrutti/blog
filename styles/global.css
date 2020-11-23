@@ -25,3 +25,7 @@ img {
   max-width: 100%;
   display: block;
 }
+
+code {
+  border-radius: 5px;
+}
